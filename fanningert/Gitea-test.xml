@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>Gitea</Name>
+  <Name>Gitea-Test</Name>
   <Beta>True</Beta>
   <Repository>gitea/gitea</Repository>
   <Registry>https://registry.hub.docker.com/u/gitea/gitea/</Registry>
